@@ -30,7 +30,7 @@ Compare agreement between **EKFC**, **CKD-EPI 2021 (race-free, IDMS-traceable)**
 2. **4-variable MDRD** (IDMS-traceable form)
 3. **EKFC**
 
-Implementation details and references are documented in `/src/egfr_equations.py` 
+Implementation details and references are documented in `/code/CODEONLY_MOCK_ANALYSIS_BA.py` 
 
 ---
 
@@ -49,8 +49,3 @@ Planned additions:
   - **Tenofovir**
 - Cohen’s kappa
 - Gwet’s AC1 (recommended when prevalence/imbalance may distort kappa)
-
----
-
-## Repository structure
-
